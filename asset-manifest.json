@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.1a5bcca9.css",
+    "main.js": "/portfolio/static/js/main.d42bdd1c.js",
+    "static/media/web-developer.jpg": "/portfolio/static/media/web-developer.5bb138f95f74a6400064.jpg",
+    "static/media/akvarel.png": "/portfolio/static/media/akvarel.d8b252d1b258a31b9723.png",
+    "static/media/myFoto.png": "/portfolio/static/media/myFoto.a71eb96e9615f41b0a64.png",
+    "static/media/shop.jpg": "/portfolio/static/media/shop.bc722a71b73e83798435.jpg",
+    "static/media/Error_404.jpg": "/portfolio/static/media/Error_404.2498d62c76d2f72d19b0.jpg",
+    "static/media/bank.jpg": "/portfolio/static/media/bank.d69549af06f353082beb.jpg",
+    "static/media/development.jpeg": "/portfolio/static/media/development.a0c0ad14448564cc235f.jpeg",
+    "static/media/game_of_pairs.jpg": "/portfolio/static/media/game_of_pairs.837583bc9738eccec777.jpg",
+    "static/media/designer.png": "/portfolio/static/media/designer.18130e76c1431e516eb8.png",
+    "static/media/Telegram.png": "/portfolio/static/media/Telegram.441f37e699f03add456f.png",
+    "static/media/Ok.png": "/portfolio/static/media/Ok.eb5904ece0201acb3b15.png",
+    "static/media/Vk.png": "/portfolio/static/media/Vk.6d2f23c83c88658e8fef.png",
+    "index.html": "/portfolio/index.html",
+    "main.1a5bcca9.css.map": "/portfolio/static/css/main.1a5bcca9.css.map",
+    "main.d42bdd1c.js.map": "/portfolio/static/js/main.d42bdd1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a5bcca9.css",
+    "static/js/main.d42bdd1c.js"
+  ]
+}
